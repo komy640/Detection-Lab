@@ -37,6 +37,9 @@ Install Sysmon for advanced system logging<a href="https://google.com](https://d
 ![image](https://github.com/user-attachments/assets/55c5a44d-4fc4-4931-9fc3-9b9d444c53df)
 .
 ![image](https://github.com/user-attachments/assets/d01b1571-e1b7-4741-8a50-a8fab74bd03c)
+.
+![image](https://github.com/user-attachments/assets/15485048-482e-43ed-948c-dfdf8e808777)
+
 
 
 Install Splunk Universal Forwarder to send logs to Splunk <a href="https://google.com">Download Link</a>.
@@ -54,6 +57,8 @@ Install Splunk Universal Forwarder to send logs to Splunk <a href="https://googl
 
 - Step 3: Deploy Splunk Server
   - Install Splunk on 192.168.1.200.
+    ![image](https://github.com/user-attachments/assets/ba101f91-c402-4af6-a94c-24c247254af1)
+
   - Configure Splunk Forwarders on Windows and Active Directory machines to send logs.
 - Step 4: Set Up Kali Linux Attacker
 Install penetration testing tools.

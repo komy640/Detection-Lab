@@ -32,11 +32,11 @@ The lab environment consists of:
 
 
 ## Steps
- - Step 1: Configure Windows Machines
-Install Sysmon for advanced system logging.
+- Step 1: Configure Windows Machines
+Install Sysmon for advanced system logging<a href="https://google.com](https://download.sysinternals.com/files/Sysmon.zip">Download Link</a>.
 ![image](https://github.com/user-attachments/assets/55c5a44d-4fc4-4931-9fc3-9b9d444c53df)
 .
-![image](https://github.com/user-attachments/assets/e2b02f54-b47e-4e24-b69b-ccb00d9e945b)
+![image](https://github.com/user-attachments/assets/d01b1571-e1b7-4741-8a50-a8fab74bd03c)
 
 
 Install Splunk Universal Forwarder to send logs to Splunk <a href="https://google.com">Download Link</a>.

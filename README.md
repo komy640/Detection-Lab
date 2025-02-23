@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The purpose of this project was to create a controlled lab environment for simulating and identifying cyber threats. The main goal was to collect and analyze logs within a Security Information and Event Management (SIEM) system, generating test data to replicate real-world attack scenarios.
 
 ### Skills Learned
 
@@ -19,6 +19,15 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Sysmon (System Monitor) – Configured on Windows machines for detailed event logging.
 - Wireshark – Used for network traffic analysis.
 - Kali Linux – Used as an attacker machine for testing security defenses.
+
+  ### Network Diagram
+
+The lab environment consists of:
+- Windows Machines (192.168.1.101, 192.168.1.102) running Sysmon and Splunk Universal Forwarder.
+- Active Directory Server (192.168.1.100) forwarding security logs.
+- Splunk Server (192.168.1.200) acting as the SIEM.
+- Attacker Machine (192.168.1.250, Kali Linux) used for simulating attacks.
+
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc

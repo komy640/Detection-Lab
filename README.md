@@ -60,8 +60,7 @@ Install Splunk Universal Forwarder to send logs to Splunk <a href="https://googl
     ![image](https://github.com/user-attachments/assets/ba101f91-c402-4af6-a94c-24c247254af1)
 
   - Configure Splunk Forwarders on Windows and Active Directory machines to send logs.
-- Step 4: Set Up Kali Linux Attacker
-Install penetration testing tools.
-
-Prepare for attack simulations using Atomic Red Team.
+- Step 4: Set Up Attacker Envirnment.
+   - Install Kali Linux.
+   - Prepare for attack simulations using Atomic Red Team.
 

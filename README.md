@@ -64,6 +64,7 @@ Install Splunk Universal Forwarder to send logs to Splunk <a href="https://googl
    - Install Kali Linux.
    - Prepare for attack simulations using Atomic Red Team.
 - Access Splunk GUI and search with index="endpoint"
-  ![image](https://github.com/user-attachments/assets/fa765665-f084-4b65-a223-68f7387407f3)
+ ![image](https://github.com/user-attachments/assets/4ad9de03-2e48-483b-9e7b-f16d913a36f9)
+
 
 

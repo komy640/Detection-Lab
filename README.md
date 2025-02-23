@@ -1,4 +1,4 @@
-# Soc Home Lab Using Splunk
+# Detection Lab Using Splunk
 
 ## Objective
 
@@ -35,15 +35,13 @@ The lab environment consists of:
  - Step 1: Configure Windows Machines
 Install Sysmon for advanced system logging.
 ![image](https://github.com/user-attachments/assets/55c5a44d-4fc4-4931-9fc3-9b9d444c53df)
-..
+.
 ![image](https://github.com/user-attachments/assets/e2b02f54-b47e-4e24-b69b-ccb00d9e945b)
 
 
-Install Splunk Universal Forwarder to send logs to Splunk.
-powershell
-Copy
-Edit
-msiexec /i splunkforwarder.msi AGREETOLICENSE=Yes
+Install Splunk Universal Forwarder to send logs to Splunk <a href="https://google.com">Download Link</a>.
+![image](https://github.com/user-attachments/assets/16edf7bf-3841-40dd-9860-943d3ef180a9)
+
 - Step 2: Set Up Active Directory
 Install Windows Server and configure it as a Domain Controller.
 Install Sysmon & Splunk Universal Forwarder to forward security logs.

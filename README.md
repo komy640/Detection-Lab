@@ -1,7 +1,6 @@
-# PROJECTNAME
+# Soc Home Lab Using Splunk
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
@@ -17,9 +16,11 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- SIEM (Splunk Server) – Used for log ingestion and analysis.
+- Splunk Universal Forwarder – Installed on endpoints to forward logs.
+- Sysmon (System Monitor) – Configured on Windows machines for detailed event logging.
+- Wireshark – Used for network traffic analysis.
+- Kali Linux – Used as an attacker machine for testing security defenses.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc

@@ -63,6 +63,5 @@ Install Splunk Universal Forwarder to send logs to Splunk <a href="https://googl
 - Step 4: Set Up Kali Linux Attacker
 Install penetration testing tools.
 
-sudo apt update && sudo apt install -y kali-linux-default
 Prepare for attack simulations using Atomic Red Team.
 

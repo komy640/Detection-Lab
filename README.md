@@ -20,7 +20,9 @@ The purpose of this project was to create a controlled lab environment for simul
 - Wireshark – Used for network traffic analysis.
 - Kali Linux – Used as an attacker machine for testing security defenses.
 
-  ### Network Diagram
+ ### Network Diagram
+ ![WhatsApp Image 2025-02-23 at 01 30 15_3a5cc757](https://github.com/user-attachments/assets/980d53fb-071e-40e8-88a5-3cb7c6e404c7)
+
 
 The lab environment consists of:
 - Windows Machines (192.168.1.101, 192.168.1.102) running Sysmon and Splunk Universal Forwarder.

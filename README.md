@@ -33,7 +33,7 @@ The lab environment consists of:
 
 ## Steps
 - Step 1: Configure Windows Machines
-Install Sysmon for advanced system logging<a href="https://download.sysinternals.com/files/Sysmon.zip">Download Link</a>.<a href="https://download.sysinternals.com/files/Sysmon.zip](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml">Configuration File Link</a>.
+Install Sysmon for advanced system logging<a href="https://download.sysinternals.com/files/Sysmon.zip">Download Link</a>.<a href="https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml">Configuration File Link</a>.
 ![image](https://github.com/user-attachments/assets/55c5a44d-4fc4-4931-9fc3-9b9d444c53df)
 .
 ![image](https://github.com/user-attachments/assets/d01b1571-e1b7-4741-8a50-a8fab74bd03c)

@@ -32,7 +32,7 @@ The lab environment consists of:
 
 
 ## Steps
- Step 1: Configure Windows Machines
+ - Step 1: Configure Windows Machines
 Install Sysmon for advanced system logging.
 powershell
 Copy
@@ -43,17 +43,15 @@ powershell
 Copy
 Edit
 msiexec /i splunkforwarder.msi AGREETOLICENSE=Yes
-🔹 Step 2: Set Up Active Directory
+- Step 2: Set Up Active Directory
 Install Windows Server and configure it as a Domain Controller.
 Install Sysmon & Splunk Universal Forwarder to forward security logs.
-🔹 Step 3: Deploy Splunk Server
+- Step 3: Deploy Splunk Server
 Install Splunk on 192.168.1.200.
 Configure Splunk Forwarders on Windows and Active Directory machines to send logs.
-🔹 Step 4: Set Up Kali Linux Attacker
+- Step 4: Set Up Kali Linux Attacker
 Install penetration testing tools.
-bash
-Copy
-Edit
+
 sudo apt update && sudo apt install -y kali-linux-default
 Prepare for attack simulations using Atomic Red Team.
 

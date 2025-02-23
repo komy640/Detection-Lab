@@ -5,16 +5,14 @@
 The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- In-depth knowledge of SIEM principles and real-world implementation.
+- Expertise in examining and interpreting security logs.
+- Ability to detect and analyze attack patterns and indicators.
+- Improved understanding of network protocols and system vulnerabilities.
+- Strengthened analytical thinking and problem-solving abilities in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - SIEM (Splunk Server) – Used for log ingestion and analysis.
 - Splunk Universal Forwarder – Installed on endpoints to forward logs.

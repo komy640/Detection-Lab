@@ -35,6 +35,7 @@ The lab environment consists of:
  - Step 1: Configure Windows Machines
 Install Sysmon for advanced system logging.
 ![image](https://github.com/user-attachments/assets/55c5a44d-4fc4-4931-9fc3-9b9d444c53df)
+..
 ![image](https://github.com/user-attachments/assets/e2b02f54-b47e-4e24-b69b-ccb00d9e945b)
 
 

@@ -49,7 +49,7 @@ Install Splunk Universal Forwarder to send logs to Splunk <a href="https://googl
 
   - Install Sysmon & Splunk Universal Forwarder to forward security logs.
 
-    ![WhatsApp Image 2025-02-23 at 07 42 07_769ed1bd](https://github.com/user-attachments/assets/825734e4-b508-47cf-aae6-0c1913f468fc)
+   ![WhatsApp Image 2025-02-23 at 07 42 07_769ed1bd](https://github.com/user-attachments/assets/825734e4-b508-47cf-aae6-0c1913f468fc)
 
 
 - Step 3: Deploy Splunk Server

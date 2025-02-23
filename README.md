@@ -44,9 +44,14 @@ Install Splunk Universal Forwarder to send logs to Splunk <a href="https://googl
 
 - Step 2: Set Up Active Directory
   - Install Windows Server and configure it as a Domain Controller.
+
    ![image](https://github.com/user-attachments/assets/fd305c11-c86e-4fe2-b0ef-ed14cfe155a9)
 
   - Install Sysmon & Splunk Universal Forwarder to forward security logs.
+
+    ![WhatsApp Image 2025-02-23 at 07 42 07_769ed1bd](https://github.com/user-attachments/assets/825734e4-b508-47cf-aae6-0c1913f468fc)
+
+
 - Step 3: Deploy Splunk Server
   - Install Splunk on 192.168.1.200.
   - Configure Splunk Forwarders on Windows and Active Directory machines to send logs.

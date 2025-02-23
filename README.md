@@ -17,7 +17,7 @@ The purpose of this project was to create a controlled lab environment for simul
 - SIEM (Splunk Server) – Used for log ingestion and analysis.
 - Splunk Universal Forwarder – Installed on endpoints to forward logs.
 - Sysmon (System Monitor) – Configured on Windows machines for detailed event logging.
-- Wireshark – Used for network traffic analysis.
+- Atomic Red Team – Simulating cyber threats.
 - Kali Linux – Used as an attacker machine for testing security defenses.
 
  ### Network Diagram

@@ -43,11 +43,11 @@ Install Splunk Universal Forwarder to send logs to Splunk <a href="https://googl
 ![image](https://github.com/user-attachments/assets/16edf7bf-3841-40dd-9860-943d3ef180a9)
 
 - Step 2: Set Up Active Directory
-Install Windows Server and configure it as a Domain Controller.
-Install Sysmon & Splunk Universal Forwarder to forward security logs.
+  - Install Windows Server and configure it as a Domain Controller.
+  - Install Sysmon & Splunk Universal Forwarder to forward security logs.
 - Step 3: Deploy Splunk Server
-Install Splunk on 192.168.1.200.
-Configure Splunk Forwarders on Windows and Active Directory machines to send logs.
+  - Install Splunk on 192.168.1.200.
+  - Configure Splunk Forwarders on Windows and Active Directory machines to send logs.
 - Step 4: Set Up Kali Linux Attacker
 Install penetration testing tools.
 
